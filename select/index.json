@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君色の街",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-29T02:00:06.581877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君色の街",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/01_君色の街_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君色の街",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_君色の街_BaseBallBear.txt"
+    }
+  ]
+}
